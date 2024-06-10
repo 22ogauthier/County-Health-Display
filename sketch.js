@@ -13,7 +13,7 @@ let censusTract = [];
 let visLegend;
 
 function preload() {
-   visLegend = loadImage("media/Screenshot 2023-12-11 162317.png");
+   visLegend = loadImage("media/Vis Legend.png");
 }
 
 /**
